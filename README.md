@@ -4,6 +4,8 @@ git clone https://github.com/TaliGanda/Htm
 
 cd Htm
 
+unzip Methods.zip
+
 chmod +x Vulkanik
 
 ./Vulkanik
